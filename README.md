@@ -6,10 +6,10 @@ Over the past years, I've built from scratch and managed a development team of s
 
 Now I am looking for new challenges and work with people for whom programming is a passion
 
-### Goal for these year
+### Goals for these year
 
-- Create blog 
-- Improve my skills in UX / UI design with Figma and TailwindCSS
-- Create small app with new tools like Svelte
+- Create blog [WIP]
+- Improve my skills in UX / UI design with Figma and TailwindCSS [WIP]
+- Create small app with new tools like Svelte [Todo]
 
 

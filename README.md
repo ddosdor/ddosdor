@@ -8,7 +8,7 @@ Now I am looking for new challenges and work with people for whom programming is
 
 ### Goals for these year
 
-- Create blog [WIP]
+- ~~Create blog~~ [DONE]
 - Improve my skills in UX / UI design with Figma and TailwindCSS [WIP]
 - Create small app with new tools like Svelte [Todo]
 

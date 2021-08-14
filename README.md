@@ -1,6 +1,6 @@
 ## Hi there, I'm Sebastian
 
-I've been working as a **Software Developer** (specifically with Javascript ) for about 7 years, and turning my own or someone else's ideas into small applications or large commercial products. My passion is creating clean and readable code , and using best practices whenever possible.
+I've been working as a **Software Developer** (specifically with Javascript ) for about a few years now, and turning my own or someone else's ideas into small applications or large commercial products. My passion is creating clean and readable code , and using best practices whenever possible.
 
 Over the past years, I've built from scratch and managed a development team of several people, with full infrastructure administration, CD/CD processes based on Gitlab and Docker, and a technology stack based on Vue.js , Typescript and Postrgesql.
 
